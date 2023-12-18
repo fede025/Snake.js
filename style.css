@@ -1,0 +1,29 @@
+*{
+    background-color: aquamarine;
+}
+
+square{
+    margin: border black 1 px;
+}
+
+
+#canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#txtButton{
+    position: absolute;
+    top: 85%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+}
+
+#txtState{
+    position: absolute;
+    top: 85%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+}
